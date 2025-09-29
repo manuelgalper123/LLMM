@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <anio_publicacion>1967</anio_publicacion>
+        <isbn>978-84-376-0494-7</isbn>
+        <genero>Realismo mágico</genero>
+        <disponible>true</disponible>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio_publicacion>1949</anio_publicacion>
+        <isbn>978-0-452-28423-4</isbn>
+        <genero>Distopía</genero>
+        <disponible>false</disponible>
+    </libro>
+</biblioteca>
