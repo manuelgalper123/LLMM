@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejercicio 11</title>
+</head>
+<body>
+    <h1>Menú</h1>
+<ul>
+<li>Inicio</li>    
+<li><b>Noticias</b></li>
+    <ul>
+        <li><a href="Recientes.html">Recientes</a></li>
+        <li><a href="Más leídas.html">Más leídas</a></li>
+        <li><a href="Más valoradas.html">Más valoradas</a></li>
+    </ul>
+<li>Artículos</li>
+    <ol>
+        <li><b>XHTML</b></li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Otros</li>
+    </ol>    
+<li>Contacto</li>
+<p>
+<dl>    
+<dt>Email</dt>
+    <dd><b>nombre@direccion.com</dd>
+<dt>Teléfono</dt>
+    <dd>900 900 900</dd>
+<dt>Fax</dt>
+    <dd>900 900 900</dd>
+</dl>          
+</body>
+</html>

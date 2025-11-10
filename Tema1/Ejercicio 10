@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Actividad 10</title>
+</head>
+<body>
+    <h1>Menu</h1>
+<ul>
+<li>Inicio</li>    
+<li><b>Noticias</b></li>
+    <ul>
+        <li><a href="Recientes.html">Recientes</a></li>
+        <li><a href="Más leídas.html">Más leídas</a></li>
+        <li><a href="Más valoradas.html">Más valoradas</a></li>
+    </ul>
+</body>
+</html>  
